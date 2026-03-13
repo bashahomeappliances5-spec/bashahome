@@ -2064,7 +2064,7 @@ export const PRODUCTS = [
       "Compact stylish design",
       "Energy efficient"
     ],
-    image: "src/imgs/manaswini.jpg",
+    image: "https://drive.google.com/file/d/1HWmb-4pzqjzJDI9p9_FimiX6W0n059vJ/view",
     price: "Enquire for Price"
   },
   // New Air Conditioners
